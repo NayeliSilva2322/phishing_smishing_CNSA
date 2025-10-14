@@ -47,14 +47,6 @@ La información utilizada proviene del conjunto de datos público de Kaggle, esp
 
  **Nota importante:** Este análisis **es una propuesta exploratoria**. 
 
----
-
-## 📌 Próximos pasos sugeridos  
-
-- Realizar un análisis de importancia de características usando modelos base.  
-- Implementar un pipeline de preprocesamiento y entrenamiento supervisado.  
-- Evaluar métricas de desempeño (precision, recall, F1-score, AUC).  
-- Desarrollar un dashboard de monitoreo de URLs sospechosas.
 
 ---
 
